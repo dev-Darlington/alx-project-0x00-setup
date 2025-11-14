@@ -1,1 +1,3 @@
-let index: number;
+export interface PillProps {
+    title: string;
+}
